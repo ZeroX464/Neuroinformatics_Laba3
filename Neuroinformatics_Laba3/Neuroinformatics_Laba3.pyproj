@@ -25,6 +25,7 @@
   <ItemGroup>
     <Compile Include="GRU.py" />
     <Compile Include="Paint.py" />
+    <Compile Include="SeeImages.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="GRU.pth" />
